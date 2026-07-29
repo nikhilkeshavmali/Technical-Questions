@@ -1,0 +1,2 @@
+// smallest element in arr
+
